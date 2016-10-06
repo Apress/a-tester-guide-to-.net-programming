@@ -1,0 +1,10 @@
+bin\Debug\DatabaseTest1Answer.exe
+bin\Debug\DatabaseTest1Answer.pdb
+bin\Debug\DatabaseTest1Answer.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DatabaseTest1Answer.frmTestBed.resources
+obj\Debug\DatabaseTest1Answer.Resources.resources
+obj\Debug\DatabaseTest1Answer.vbproj.GenerateResource.Cache
+obj\Debug\DatabaseTest1Answer.exe
+obj\Debug\DatabaseTest1Answer.xml
+obj\Debug\DatabaseTest1Answer.pdb

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MaxOrdersTest.Form1.resources
+obj\Debug\MaxOrdersTest.Properties.Resources.resources
+obj\Debug\MaxOrdersTest.csproj.GenerateResource.Cache
+bin\Debug\MaxOrdersTest.exe
+bin\Debug\MaxOrdersTest.pdb
+obj\Debug\MaxOrdersTest.exe
+obj\Debug\MaxOrdersTest.pdb

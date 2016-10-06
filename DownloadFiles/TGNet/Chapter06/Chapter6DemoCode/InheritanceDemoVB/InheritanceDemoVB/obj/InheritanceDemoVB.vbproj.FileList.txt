@@ -1,0 +1,10 @@
+bin\Debug\InheritanceDemoVB.exe
+bin\Debug\InheritanceDemoVB.pdb
+bin\Debug\InheritanceDemoVB.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InheritanceDemoVB.Form1.resources
+obj\Debug\InheritanceDemoVB.Resources.resources
+obj\Debug\InheritanceDemoVB.vbproj.GenerateResource.Cache
+obj\Debug\InheritanceDemoVB.exe
+obj\Debug\InheritanceDemoVB.xml
+obj\Debug\InheritanceDemoVB.pdb

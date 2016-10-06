@@ -1,0 +1,10 @@
+obj\Debug\Chapter5Demo.exe
+obj\Debug\Chapter5Demo.xml
+obj\Debug\Chapter5Demo.pdb
+bin\Debug\Chapter5Demo.exe
+bin\Debug\Chapter5Demo.pdb
+bin\Debug\Chapter5Demo.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Chapter5Demo.Form1.resources
+obj\Debug\Chapter5Demo.Resources.resources
+obj\Debug\Chapter5Demo.vbproj.GenerateResource.Cache

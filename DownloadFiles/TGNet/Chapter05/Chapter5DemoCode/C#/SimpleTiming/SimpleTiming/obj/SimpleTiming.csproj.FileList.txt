@@ -1,0 +1,16 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SimpleTiming.Form1.resources
+obj\Release\SimpleTiming.Properties.Resources.resources
+obj\Release\SimpleTiming.csproj.GenerateResource.Cache
+bin\Release\SimpleTiming.exe
+bin\Release\SimpleTiming.pdb
+obj\Release\SimpleTiming.exe
+obj\Release\SimpleTiming.pdb
+bin\Debug\SimpleTiming.exe
+bin\Debug\SimpleTiming.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleTiming.Form1.resources
+obj\Debug\SimpleTiming.Properties.Resources.resources
+obj\Debug\SimpleTiming.csproj.GenerateResource.Cache
+obj\Debug\SimpleTiming.exe
+obj\Debug\SimpleTiming.pdb

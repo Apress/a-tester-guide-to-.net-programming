@@ -1,0 +1,9 @@
+.\bin\SendKeysExample.exe
+.\bin\SendKeysExample.pdb
+.\bin\SendKeysExample.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SendKeysExample.frmSendKeys.resources
+obj\Debug\SendKeys.vbproj.GenerateResource.Cache
+obj\Debug\SendKeysExample.exe
+obj\Debug\SendKeysExample.xml
+obj\Debug\SendKeysExample.pdb

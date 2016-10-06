@@ -1,0 +1,16 @@
+bin\Debug\BugReporter.exe
+bin\Debug\BugReporter.pdb
+bin\Debug\BugReporter.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BugReporter.BugReporterForm.resources
+obj\Debug\BugReporter.Resources.resources
+obj\Debug\BugReporter.vbproj.GenerateResource.Cache
+obj\Debug\BugReporter.exe
+obj\Debug\BugReporter.xml
+obj\Debug\BugReporter.pdb
+bin\Debug\ReportMaker.dll
+bin\Debug\Validations.dll
+bin\Debug\ReportMaker.pdb
+bin\Debug\ReportMaker.xml
+bin\Debug\Validations.pdb
+bin\Debug\Validations.xml

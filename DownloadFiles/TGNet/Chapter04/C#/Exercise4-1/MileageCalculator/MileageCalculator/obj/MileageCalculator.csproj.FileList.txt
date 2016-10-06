@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MileageCalculator.Properties.Resources.resources
+obj\Debug\MileageCalculator.csproj.GenerateResource.Cache
+bin\Debug\MileageCalculator.exe
+bin\Debug\MileageCalculator.pdb
+obj\Debug\MileageCalculator.exe
+obj\Debug\MileageCalculator.pdb
+obj\Debug\MileageCalculator.Form1.resources

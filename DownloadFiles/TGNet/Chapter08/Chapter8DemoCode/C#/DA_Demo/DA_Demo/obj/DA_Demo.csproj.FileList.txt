@@ -1,0 +1,8 @@
+bin\Debug\DA_Demo.exe
+bin\Debug\DA_Demo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DA_Demo.Form1.resources
+obj\Debug\DA_Demo.Properties.Resources.resources
+obj\Debug\DA_Demo.csproj.GenerateResource.Cache
+obj\Debug\DA_Demo.exe
+obj\Debug\DA_Demo.pdb

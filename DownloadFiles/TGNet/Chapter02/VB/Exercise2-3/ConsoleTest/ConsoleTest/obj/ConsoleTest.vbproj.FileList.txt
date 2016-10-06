@@ -1,0 +1,10 @@
+bin\ConsoleTest.exe.config
+obj\Debug\ConsoleTest.exe
+obj\Debug\ConsoleTest.xml
+obj\Debug\ConsoleTest.pdb
+bin\ConsoleTest.exe
+bin\ConsoleTest.pdb
+bin\ConsoleTest.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleTest.MyResources.resources
+obj\Debug\ConsoleTest.vbproj.GenerateResource.Cache

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog>
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "CalcTest.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "CalcTest"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "CalcTest.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "C:\Documents and Settings\Mary\Desktop\Answer\CalculatorTesting.NET1"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "C:\Documents and Settings\Mary\Desktop\Answer\CalcTest.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "WinExe"
+        />
+    </Settings>
+    <File
+        OldPath = "C:\Documents and Settings\Mary\Desktop\Answer\CalcTest.frm"
+        NewPath = "C:\Documents and Settings\Mary\Desktop\Answer\CalculatorTesting.NET1\CalcTest.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Documents and Settings\Mary\Desktop\Answer\LogUtil.bas"
+        NewPath = "C:\Documents and Settings\Mary\Desktop\Answer\CalculatorTesting.NET1\LogUtil.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Documents and Settings\Mary\Desktop\Answer\GenRoutines.bas"
+        NewPath = "C:\Documents and Settings\Mary\Desktop\Answer\CalculatorTesting.NET1\GenRoutines.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    />
+</UpgradeLog>
+

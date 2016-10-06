@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TextReadUtility.frmTextRead.resources
+obj\Debug\TextReadUtility.Resources.resources
+obj\Debug\TextReadUtility.vbproj.GenerateResource.Cache
+bin\Debug\TextReadUtility.exe
+bin\Debug\TextReadUtility.pdb
+bin\Debug\TextReadUtility.xml
+obj\Debug\TextReadUtility.exe
+obj\Debug\TextReadUtility.xml
+obj\Debug\TextReadUtility.pdb

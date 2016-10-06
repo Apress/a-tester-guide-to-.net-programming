@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AutoTester.AboutBox1.resources
+obj\Debug\AutoTester.Form1.resources
+obj\Debug\AutoTester.Resources.resources
+obj\Debug\AutoTester.vbproj.GenerateResource.Cache
+bin\Debug\AutoTester.exe
+bin\Debug\AutoTester.pdb
+bin\Debug\AutoTester.xml
+obj\Debug\AutoTester.exe
+obj\Debug\AutoTester.xml
+obj\Debug\AutoTester.pdb

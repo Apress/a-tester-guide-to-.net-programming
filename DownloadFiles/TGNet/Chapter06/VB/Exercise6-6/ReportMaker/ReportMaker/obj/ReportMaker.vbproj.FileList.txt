@@ -1,0 +1,12 @@
+bin\Debug\ReportMaker.dll
+bin\Debug\ReportMaker.pdb
+bin\Debug\ReportMaker.xml
+bin\Debug\Validations.dll
+bin\Debug\Validations.pdb
+bin\Debug\Validations.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ReportMaker.Resources.resources
+obj\Debug\ReportMaker.vbproj.GenerateResource.Cache
+obj\Debug\ReportMaker.dll
+obj\Debug\ReportMaker.xml
+obj\Debug\ReportMaker.pdb

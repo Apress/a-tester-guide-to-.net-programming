@@ -1,0 +1,7 @@
+.\bin\Debug\DatabaseTest1.exe
+.\bin\Debug\DatabaseTest1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DatabaseTest1Template.Properties.Resources.resources
+obj\Debug\DatabaseTest1.csproj.GenerateResource.Cache
+obj\Debug\DatabaseTest1.exe
+obj\Debug\DatabaseTest1.pdb

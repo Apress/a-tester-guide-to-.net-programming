@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ADODataReaderDemo.Form1.resources
+obj\Debug\ADODataReaderDemo.Properties.Resources.resources
+obj\Debug\ADODataReaderDemo.csproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ADODataReaderDemo.Form1.resources
+obj\Release\ADODataReaderDemo.Properties.Resources.resources
+obj\Release\ADODataReaderDemo.csproj.GenerateResource.Cache
+bin\Release\ADODataReaderDemo.exe
+bin\Release\ADODataReaderDemo.pdb
+obj\Release\ADODataReaderDemo.exe
+obj\Release\ADODataReaderDemo.pdb
+bin\Debug\ADODataReaderDemo.exe
+bin\Debug\ADODataReaderDemo.pdb
+obj\Debug\ADODataReaderDemo.exe
+obj\Debug\ADODataReaderDemo.pdb

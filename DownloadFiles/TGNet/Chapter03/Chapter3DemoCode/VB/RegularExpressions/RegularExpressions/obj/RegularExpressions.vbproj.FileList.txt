@@ -1,0 +1,10 @@
+bin\Debug\RegularExpressions.exe
+bin\Debug\RegularExpressions.pdb
+bin\Debug\RegularExpressions.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegularExpressions.Form1.resources
+obj\Debug\RegularExpressions.Resources.resources
+obj\Debug\RegularExpressions.vbproj.GenerateResource.Cache
+obj\Debug\RegularExpressions.exe
+obj\Debug\RegularExpressions.xml
+obj\Debug\RegularExpressions.pdb

@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InspectPC.Resources.resources
+obj\Debug\InspectPC.vbproj.GenerateResource.Cache
+bin\Debug\InspectPC.exe
+bin\Debug\InspectPC.pdb
+bin\Debug\InspectPC.xml
+obj\Debug\InspectPC.exe
+obj\Debug\InspectPC.xml
+obj\Debug\InspectPC.pdb

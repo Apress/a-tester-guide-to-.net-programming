@@ -1,0 +1,8 @@
+bin\Debug\ADODataReaderDemo.exe
+bin\Debug\ADODataReaderDemo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ADODataReaderDemo.Form1.resources
+obj\Debug\ADODataReaderDemo.Properties.Resources.resources
+obj\Debug\ADOTestDemo.csproj.GenerateResource.Cache
+obj\Debug\ADODataReaderDemo.exe
+obj\Debug\ADODataReaderDemo.pdb

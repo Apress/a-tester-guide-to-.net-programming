@@ -1,0 +1,11 @@
+bin\Debug\BooleanSwitchDemo.exe.config
+bin\Debug\BooleanSwitchDemo.exe
+bin\Debug\BooleanSwitchDemo.pdb
+bin\Debug\BooleanSwitchDemo.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BooleanSwitchDemo.Form1.resources
+obj\Debug\BooleanSwitchDemo.Resources.resources
+obj\Debug\BooleanSwitchDemo.vbproj.GenerateResource.Cache
+obj\Debug\BooleanSwitchDemo.exe
+obj\Debug\BooleanSwitchDemo.xml
+obj\Debug\BooleanSwitchDemo.pdb

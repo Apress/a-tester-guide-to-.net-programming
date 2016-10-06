@@ -1,0 +1,10 @@
+bin\WriteSimpleRegistryKey.exe.config
+obj\Debug\WriteSimpleRegistryKey.exe
+obj\Debug\WriteSimpleRegistryKey.xml
+obj\Debug\WriteSimpleRegistryKey.pdb
+bin\WriteSimpleRegistryKey.exe
+bin\WriteSimpleRegistryKey.pdb
+bin\WriteSimpleRegistryKey.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WriteSimpleRegistryKey.MyResources.resources
+obj\Debug\WriteSimpleRegistryKey.vbproj.GenerateResource.Cache

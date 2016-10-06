@@ -1,0 +1,10 @@
+bin\RegistryUtility.exe.config
+obj\Debug\RegistryUtility.exe
+obj\Debug\RegistryUtility.xml
+obj\Debug\RegistryUtility.pdb
+bin\RegistryUtility.exe
+bin\RegistryUtility.pdb
+bin\RegistryUtility.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegistryUtility.MyResources.resources
+obj\Debug\RegistryUtility.vbproj.GenerateResource.Cache

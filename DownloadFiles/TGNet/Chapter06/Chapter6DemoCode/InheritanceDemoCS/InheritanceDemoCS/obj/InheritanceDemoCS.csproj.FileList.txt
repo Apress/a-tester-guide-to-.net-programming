@@ -1,0 +1,8 @@
+bin\Debug\InheritanceDemoCS.exe
+bin\Debug\InheritanceDemoCS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InheritanceDemoCS.Form1.resources
+obj\Debug\InheritanceDemoCS.Properties.Resources.resources
+obj\Debug\InheritanceDemoCS.csproj.GenerateResource.Cache
+obj\Debug\InheritanceDemoCS.exe
+obj\Debug\InheritanceDemoCS.pdb

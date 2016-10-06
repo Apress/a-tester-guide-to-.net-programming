@@ -1,0 +1,11 @@
+bin\Debug\DatabaseAccess.exe
+bin\Debug\DatabaseAccess.pdb
+bin\Debug\DatabaseAccess.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DatabaseAccess.Form1.resources
+obj\Debug\DatabaseAccess.Resources.resources
+obj\Debug\DatabaseAccess.vbproj.GenerateResource.Cache
+obj\Debug\DatabaseAccess.exe
+obj\Debug\DatabaseAccess.xml
+obj\Debug\DatabaseAccess.pdb
+bin\Debug\bin\Debug\TestResultsDB.mdb

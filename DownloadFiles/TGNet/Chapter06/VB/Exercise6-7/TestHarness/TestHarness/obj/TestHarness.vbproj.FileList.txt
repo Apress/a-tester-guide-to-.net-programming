@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestHarness.Form1.resources
+obj\Debug\TestHarness.Resources.resources
+obj\Debug\TestHarness.vbproj.GenerateResource.Cache
+bin\Debug\TestHarness.exe
+bin\Debug\TestHarness.pdb
+bin\Debug\TestHarness.xml
+bin\Debug\ReportMaker.dll
+bin\Debug\Validations.dll
+bin\Debug\ReportMaker.pdb
+bin\Debug\ReportMaker.xml
+bin\Debug\Validations.pdb
+bin\Debug\Validations.xml
+obj\Debug\TestHarness.exe
+obj\Debug\TestHarness.xml
+obj\Debug\TestHarness.pdb

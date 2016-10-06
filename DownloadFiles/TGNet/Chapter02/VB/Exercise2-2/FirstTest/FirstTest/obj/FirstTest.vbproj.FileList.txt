@@ -1,0 +1,10 @@
+bin\Debug\FirstTest.exe
+bin\Debug\FirstTest.pdb
+bin\Debug\FirstTest.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirstTest.Form1.resources
+obj\Debug\FirstTest.Resources.resources
+obj\Debug\FirstTest.vbproj.GenerateResource.Cache
+obj\Debug\FirstTest.exe
+obj\Debug\FirstTest.xml
+obj\Debug\FirstTest.pdb

@@ -1,0 +1,7 @@
+bin\Debug\RegularExpressions.exe
+bin\Debug\RegularExpressions.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegularExpressions.Properties.Resources.resources
+obj\Debug\RegularExpressions.csproj.GenerateResource.Cache
+obj\Debug\RegularExpressions.exe
+obj\Debug\RegularExpressions.pdb

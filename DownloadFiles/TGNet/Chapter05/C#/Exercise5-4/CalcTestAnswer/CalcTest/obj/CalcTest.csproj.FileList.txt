@@ -1,0 +1,8 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CalcTest.Form1.resources
+obj\Release\CalcTest.Properties.Resources.resources
+obj\Release\CalcTest.csproj.GenerateResource.Cache
+bin\Release\CalcTest.exe
+bin\Release\CalcTest.pdb
+obj\Release\CalcTest.exe
+obj\Release\CalcTest.pdb

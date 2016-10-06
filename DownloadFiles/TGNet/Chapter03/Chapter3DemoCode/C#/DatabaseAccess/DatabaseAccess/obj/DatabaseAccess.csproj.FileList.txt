@@ -1,0 +1,7 @@
+obj\Debug\DatabaseAccess.exe
+obj\Debug\DatabaseAccess.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DatabaseAccess.Properties.Resources.resources
+obj\Debug\DatabaseAccess.csproj.GenerateResource.Cache
+.\bin\Debug\DatabaseAccess.exe
+.\bin\Debug\DatabaseAccess.pdb

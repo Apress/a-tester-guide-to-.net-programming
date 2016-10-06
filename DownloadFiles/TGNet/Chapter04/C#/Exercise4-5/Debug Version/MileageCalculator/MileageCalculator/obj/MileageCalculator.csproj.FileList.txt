@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MileageCalculator.Properties.Resources.resources
+obj\Debug\MileageCalculator.csproj.GenerateResource.Cache
+bin\Debug\MileageCalculator.exe
+bin\Debug\MileageCalculator.pdb
+obj\Debug\MileageCalculator.exe
+obj\Debug\MileageCalculator.pdb
+obj\Debug\MileageCalculator.Form1.resources
+bin\Release\MileageCalculator.exe
+bin\Release\MileageCalculator.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MileageCalculator.Form1.resources
+obj\Release\MileageCalculator.Properties.Resources.resources
+obj\Release\MileageCalculator.csproj.GenerateResource.Cache
+obj\Release\MileageCalculator.exe
+obj\Release\MileageCalculator.pdb

@@ -1,0 +1,10 @@
+obj\Release\TestLabSetup.exe
+obj\Release\TestLabSetup.pdb
+bin\Release\TestLabSetup.exe
+bin\Release\TestLabSetup.pdb
+obj\Release\ResolveAssemblyReference.cache
+bin\Debug\TestLabSetup.exe
+bin\Debug\TestLabSetup.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestLabSetup.exe
+obj\Debug\TestLabSetup.pdb

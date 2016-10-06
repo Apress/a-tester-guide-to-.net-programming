@@ -1,0 +1,10 @@
+bin\Debug\MileageCalculator.exe
+bin\Debug\MileageCalculator.pdb
+bin\Debug\MileageCalculator.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MileageCalculator.Form1.resources
+obj\Debug\MileageCalculator.Resources.resources
+obj\Debug\MileageCalculator.vbproj.GenerateResource.Cache
+obj\Debug\MileageCalculator.exe
+obj\Debug\MileageCalculator.xml
+obj\Debug\MileageCalculator.pdb

@@ -1,0 +1,10 @@
+bin\RetrieveSimpleRegistryKey.exe.config
+obj\Debug\RetrieveSimpleRegistryKey.exe
+obj\Debug\RetrieveSimpleRegistryKey.xml
+obj\Debug\RetrieveSimpleRegistryKey.pdb
+bin\RetrieveSimpleRegistryKey.exe
+bin\RetrieveSimpleRegistryKey.pdb
+bin\RetrieveSimpleRegistryKey.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleApplication1.MyResources.resources
+obj\Debug\RetrieveSimpleRegistryKey.vbproj.GenerateResource.Cache

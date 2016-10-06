@@ -1,0 +1,10 @@
+bin\Debug\SynchronousTiming.exe
+bin\Debug\SynchronousTiming.pdb
+bin\Debug\SynchronousTiming.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SynchronousTiming.Form1.resources
+obj\Debug\SynchronousTiming.Resources.resources
+obj\Debug\SynchronousTiming.vbproj.GenerateResource.Cache
+obj\Debug\SynchronousTiming.exe
+obj\Debug\SynchronousTiming.xml
+obj\Debug\SynchronousTiming.pdb

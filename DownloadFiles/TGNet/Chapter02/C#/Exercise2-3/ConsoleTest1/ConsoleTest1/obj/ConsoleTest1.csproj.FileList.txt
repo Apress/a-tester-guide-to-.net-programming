@@ -1,0 +1,7 @@
+obj\Debug\ConsoleTest1.exe
+obj\Debug\ConsoleTest1.pdb
+.\bin\Debug\ConsoleTest1.exe
+.\bin\Debug\ConsoleTest1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleTest.Properties.Resources.resources
+obj\Debug\ConsoleTest1.csproj.GenerateResource.Cache

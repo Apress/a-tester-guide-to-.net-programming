@@ -1,0 +1,13 @@
+obj\Debug\FirstTest.exe
+obj\Debug\FirstTest.pdb
+.\bin\Release\FirstTest.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FirstTest.Properties.Resources.resources
+obj\Release\FirstTest.csproj.GenerateResource.Cache
+obj\Release\FirstTest.exe
+.\bin\Debug\FirstTest.exe
+.\bin\Debug\FirstTest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirstTest.Properties.Resources.resources
+obj\Debug\FirstTest.csproj.GenerateResource.Cache
+obj\Debug\FirstTest.Form1.resources

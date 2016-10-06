@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog>
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "SendKeys.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "SendKeys"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "SendKeys.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "C:\Documents and Settings\Mary\My Documents\NewBook\ChapterFive\oldDemos\SendKeysExample.NET"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "C:\Documents and Settings\Mary\My Documents\NewBook\ChapterFive\oldDemos\SendKeys.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "WinExe"
+        />
+    </Settings>
+    <File
+        OldPath = "C:\Documents and Settings\Mary\My Documents\NewBook\ChapterFive\oldDemos\SendKeys.frm"
+        NewPath = "C:\Documents and Settings\Mary\My Documents\NewBook\ChapterFive\oldDemos\SendKeysExample.NET\SendKeys.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+</UpgradeLog>
+

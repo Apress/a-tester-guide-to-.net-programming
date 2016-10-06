@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BugReporter.Properties.Resources.resources
+obj\Debug\BugReporter.csproj.GenerateResource.Cache
+bin\Debug\BugReporter.exe
+bin\Debug\BugReporter.pdb
+obj\Debug\BugReporter.BugReporterForm.resources
+obj\Debug\BugReporter.exe
+obj\Debug\BugReporter.pdb
+bin\Debug\ReportMaker.dll
+bin\Debug\Validations.dll
+bin\Debug\ReportMaker.pdb
+bin\Debug\Validations.pdb

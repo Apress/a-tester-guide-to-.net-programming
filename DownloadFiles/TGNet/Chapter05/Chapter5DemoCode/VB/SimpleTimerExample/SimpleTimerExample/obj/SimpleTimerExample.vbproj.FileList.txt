@@ -1,0 +1,10 @@
+obj\Debug\SimpleTimerExample.exe
+obj\Debug\SimpleTimerExample.xml
+obj\Debug\SimpleTimerExample.pdb
+bin\Debug\SimpleTimerExample.exe
+bin\Debug\SimpleTimerExample.pdb
+bin\Debug\SimpleTimerExample.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleTimerExample.Form1.resources
+obj\Debug\SimpleTimerExample.Resources.resources
+obj\Debug\SimpleTimerExample.vbproj.GenerateResource.Cache

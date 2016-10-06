@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebServTestBed
+</name>
+</assembly>
+<members>
+<member name="M:WebServTestBed.CalculateArea.Service.#ctor">
+	<remarks/>
+</member><member name="E:WebServTestBed.CalculateArea.Service.RectangleAreaCompleted(System.Object,WebServTestBed.CalculateArea.RectangleAreaCompletedEventArgs)">
+	<remarks/>
+</member><member name="M:WebServTestBed.CalculateArea.Service.RectangleArea(System.Single,System.Single)">
+	<remarks/>
+</member><member name="M:WebServTestBed.CalculateArea.Service.RectangleAreaAsync(System.Single,System.Single)">
+	<remarks/>
+</member><member name="M:WebServTestBed.CalculateArea.Service.RectangleAreaAsync(System.Single,System.Single,System.Object)">
+	<remarks/>
+</member><member name="M:WebServTestBed.CalculateArea.Service.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:WebServTestBed.CalculateArea.Service">
+	<remarks/>
+</member><member name="T:WebServTestBed.CalculateArea.RectangleAreaCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WebServTestBed.CalculateArea.RectangleAreaCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WebServTestBed.CalculateArea.RectangleAreaCompletedEventArgs">
+	<remarks/>
+</member><member name="P:WebServTestBed.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WebServTestBed.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WebServTestBed.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

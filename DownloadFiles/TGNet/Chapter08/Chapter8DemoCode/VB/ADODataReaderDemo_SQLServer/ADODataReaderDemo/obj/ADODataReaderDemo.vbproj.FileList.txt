@@ -1,0 +1,10 @@
+bin\Debug\ADODataReaderDemo.exe
+bin\Debug\ADODataReaderDemo.pdb
+bin\Debug\ADODataReaderDemo.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ADODataReaderDemo.Form1.resources
+obj\Debug\ADODataReaderDemo.Resources.resources
+obj\Debug\ADODataReaderDemo.vbproj.GenerateResource.Cache
+obj\Debug\ADODataReaderDemo.exe
+obj\Debug\ADODataReaderDemo.xml
+obj\Debug\ADODataReaderDemo.pdb

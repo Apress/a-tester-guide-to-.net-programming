@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Id>100</Id>
+  <Severity>Bad</Severity>
+  <Id>200</Id>
+  <Severity>Really Bad</Severity>
+</root> 

@@ -1,0 +1,7 @@
+obj\Debug\RetrieveSimpleRegistryKey.exe
+obj\Debug\RetrieveSimpleRegistryKey.pdb
+.\bin\Debug\RetrieveSimpleRegistryKey.exe
+.\bin\Debug\RetrieveSimpleRegistryKey.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleApplication1.Properties.Resources.resources
+obj\Debug\RetrieveSimpleRegistryKey.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+bin\Debug\Validations.dll
+bin\Debug\Validations.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Validations.dll
+obj\Debug\Validations.pdb
